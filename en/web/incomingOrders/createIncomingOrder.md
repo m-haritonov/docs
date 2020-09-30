@@ -146,6 +146,7 @@ sex | Customer gender: 0—not specified, 1—male, 2—female. By default, it i
 birthday | Customer’s birthday in a `Y-m-d` format. By default, it is not transmitted.
 address | Customer’s address; by default, it is not transmitted
 comment | Online order comment; by default, it is not transmitted
+service_mode | Order type: 1 — in the hall, 2 — takeaway, 3 — delivery
 products | Product list
 payment | Payment information; by default, it is not transmitted
 promotion | List of promotions to be applied to the order
